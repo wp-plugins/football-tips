@@ -22,9 +22,18 @@ To configure:
    4. Enter the title you want visitors to see on the sidebar
 == Frequently Asked Questions ==
 
+= Is this a widget plugin? =
+
+Yes, this is a Widget Plugin.
+
 == Screenshots ==
-screenshot-1.png
+1. This is the screenshot of how the widget will be.
 
 == Changelog ==
 = 0.01 =
-* Release Version.
+* This is the first version
+
+== Upgrade Notice ==
+
+= 0.01 =
+There's no new version to upgrade to!
