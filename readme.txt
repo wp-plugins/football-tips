@@ -23,7 +23,8 @@ To configure:
 == Frequently Asked Questions ==
 
 == Screenshots ==
-/tags/0.01/screenshot-1.png
+screenshot-1.png
+
 == Changelog ==
-= 0.0.1=
-Release Version
+= 0.01 =
+* Release Version.
