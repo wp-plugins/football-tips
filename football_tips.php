@@ -4,7 +4,7 @@ Plugin Name: Football_Tips
 Plugin URI: http://www.goal.mu/wordpress-widget
 Description: Display the Latest Football_Tips and the best Odds
 Author: Nababsingh-Ramdharry/Goal.mu
-Version: 0.01
+Version: 0.02
 Author URI: http://www.goal.mu/wordpress-widget
 
 */
