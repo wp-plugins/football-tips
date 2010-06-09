@@ -7,7 +7,10 @@ Tested up to: 2.9.2
 Stable tag: 0.01
 
 == Description ==
-The Goal.mu Football Tips Wordpress Widget will display the latest football tips from Goal.mu together with the latest best odds from various online bookies.
+The Goal.mu Football Tips Wordpress Widget will display the latest football tips from 
+Goal.mu together with the latest best odds from various online bookies.Football Tips from
+the England, France, Spain, Italy, Germany and so on.Get the latest FIFA World Cup 2010 betting 
+tips together with the best odds.
 
 == Installation ==
 Here are some installation instructions:
