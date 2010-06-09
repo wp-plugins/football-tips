@@ -38,7 +38,8 @@ This is the first version
 Removal of Bookies images.
 
 == Upgrade Notice ==
-= 0.02 =
-Upgrade to Football Tips 0.02
 = 0.01 =
 There's no new version to upgrade to!
+
+= 0.02 =
+Upgrade to Football Tips 0.02
