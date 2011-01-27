@@ -8,11 +8,7 @@ Version: 0.02
 Author URI: http://www.goal.mu/wordpress-widget
 
 */
-
-
-
-  
-  function widget_Football_Tips_init() 
+function widget_Football_Tips_init() 
 	  {
 
 	  
@@ -90,8 +86,5 @@ echo ($a);
     register_widget_control('Football_Tips', 'widget_Football_Tips_control');
 	
   }
-    
-  add_action('plugins_loaded', 'widget_Football_Tips_init');
-
-?>
+  add_action('plugins_loaded', 'widget_Football_Tips_init');?>
 	
